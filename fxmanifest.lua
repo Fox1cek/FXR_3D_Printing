@@ -2,7 +2,6 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-name 'fxr_3dprinter'
 author 'Fox1cek'
 version '1.0.0'
 
