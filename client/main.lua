@@ -4,7 +4,7 @@ local PrintedItemProps = {}
 local PrintingPtfx = {}
 local isUIOpen = false
 local BlackmarketZoneId = nil
-
+--#Je to AI! :)
 RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
     InitPrinters()
     InitBlackmarketTarget()
